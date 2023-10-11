@@ -15,13 +15,13 @@ setInterval(function () {
 $(".dot1").click(function () {
   $(".slider > div:first").hide();
   $(".slider > .obj1").fadeIn(1000);
-  alert('hello')
+
 
 });
 $(".dot2").click(function () {
   $(".slider > div:first").hide();
   $(".slider > .obj2").fadeIn(1000);
-  alert('hello')
+  
 
 });
 $(".dot3").click(function () {
@@ -33,7 +33,6 @@ $(".dot3").click(function () {
 $(".dot4").click(function () {
   $(".slider > div:first").hide();
   $(".slider > .obj4").fadeIn(1000);
-  alert('hello')
 
 });
 
